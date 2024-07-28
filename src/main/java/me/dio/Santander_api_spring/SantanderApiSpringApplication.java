@@ -8,6 +8,7 @@ public class SantanderApiSpringApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SantanderApiSpringApplication.class, args);
+		System.out.println("helooooo");
 	}
 
 }
